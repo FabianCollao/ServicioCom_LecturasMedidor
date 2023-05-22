@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\bin\Debug\Simulador_Medidor_Elect.exe.config
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\bin\Debug\Simulador_Medidor_Elect.exe
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\bin\Debug\Simulador_Medidor_Elect.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\bin\Debug\SimuladorMedidorElectUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\bin\Debug\SimuladorMedidorElectUtils.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.csproj.CopyComplete
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.exe
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Simulador_Medidor_Elect\obj\Debug\Simulador_Medidor_Elect.pdb

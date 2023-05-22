@@ -1,0 +1,13 @@
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\Servicio_Comunicaciones.exe.config
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\Servicio_Comunicaciones.exe
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\Servicio_Comunicaciones.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\ServicioComunicacionModel.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\ServidorSocketUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\ServicioComunicacionModel.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.csproj.CopyComplete
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.exe
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\Servicio_Comunicaciones\obj\Debug\Servicio_Comunicaciones.pdb

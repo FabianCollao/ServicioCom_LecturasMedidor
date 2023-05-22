@@ -1,0 +1,6 @@
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\bin\Debug\ServicioComunicacionModel.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\bin\Debug\ServicioComunicacionModel.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.pdb

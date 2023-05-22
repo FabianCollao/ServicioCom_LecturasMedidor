@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicio_Comunicaciones", "Servicio_Comunicaciones\Servicio_Comunicaciones.csproj", "{E39773AA-526E-4884-A329-AABAD53E1273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador_Medidor_Elect", "Simulador_Medidor_Elect\Simulador_Medidor_Elect.csproj", "{F01DD73D-6ED4-447E-9112-65D689A66C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioComunicacionModel", "ServicioComunicacionModel\ServicioComunicacionModel.csproj", "{65645630-F912-41A3-A0C7-C395414AEB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicio_ComunicacionesUtils", "ServidorSocketUtils\Servicio_ComunicacionesUtils.csproj", "{9599DC23-0274-4717-88B8-4FAD24D1983F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorMedidorElectUtils", "SimuladorMedidorElectUtils\SimuladorMedidorElectUtils.csproj", "{E32358DB-D082-4ECA-88E2-F6FEEB1C7281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E39773AA-526E-4884-A329-AABAD53E1273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39773AA-526E-4884-A329-AABAD53E1273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39773AA-526E-4884-A329-AABAD53E1273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39773AA-526E-4884-A329-AABAD53E1273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01DD73D-6ED4-447E-9112-65D689A66C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01DD73D-6ED4-447E-9112-65D689A66C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01DD73D-6ED4-447E-9112-65D689A66C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01DD73D-6ED4-447E-9112-65D689A66C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65645630-F912-41A3-A0C7-C395414AEB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65645630-F912-41A3-A0C7-C395414AEB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65645630-F912-41A3-A0C7-C395414AEB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65645630-F912-41A3-A0C7-C395414AEB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9599DC23-0274-4717-88B8-4FAD24D1983F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9599DC23-0274-4717-88B8-4FAD24D1983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9599DC23-0274-4717-88B8-4FAD24D1983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9599DC23-0274-4717-88B8-4FAD24D1983F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32358DB-D082-4ECA-88E2-F6FEEB1C7281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32358DB-D082-4ECA-88E2-F6FEEB1C7281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32358DB-D082-4ECA-88E2-F6FEEB1C7281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32358DB-D082-4ECA-88E2-F6FEEB1C7281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131C3E79-EB1B-45EE-9B95-6B48C6F3A050}
+	EndGlobalSection
+EndGlobal

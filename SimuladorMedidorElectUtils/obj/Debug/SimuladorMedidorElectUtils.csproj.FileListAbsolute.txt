@@ -1,0 +1,6 @@
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\bin\Debug\SimuladorMedidorElectUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\bin\Debug\SimuladorMedidorElectUtils.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\obj\Debug\SimuladorMedidorElectUtils.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\obj\Debug\SimuladorMedidorElectUtils.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\obj\Debug\SimuladorMedidorElectUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\SimuladorMedidorElectUtils\obj\Debug\SimuladorMedidorElectUtils.pdb

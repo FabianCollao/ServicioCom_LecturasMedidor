@@ -1,0 +1,6 @@
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\obj\Debug\Servicio_ComunicacionesUtils.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\obj\Debug\Servicio_ComunicacionesUtils.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+C:\Users\fabia\source\repos\Servicio_Comunicaciones\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
