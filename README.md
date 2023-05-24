@@ -20,7 +20,6 @@ El funcionamiento del proyecto es el siguiente:
 Para compilar y ejecutar este proyecto, se requiere:
 
 - Microsoft Visual Studio (o cualquier otro IDE compatible con C#).
-- Conexión a Internet.
 
 ## Instrucciones de uso
 
